@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Bounce.cs" t="Include" />
         <e p="Controller.cs" t="Include" />
+        <e p="Destroy.cs" t="Include" />
       </e>
       <e p="DoodleJump.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
